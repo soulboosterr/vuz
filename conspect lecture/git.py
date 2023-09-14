@@ -1,0 +1,21 @@
+
+
+git init
+git status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
