@@ -2,7 +2,7 @@
 1
 git init
 git status
-какой то мусор
+
 
 2
 git commit - m 'commentary'
