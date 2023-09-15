@@ -1,9 +1,5 @@
 
-1
-git init
-git status
-
-
+тут я напишу хрень
 2
 git commit - m 'commentary'
 
@@ -12,7 +8,7 @@ git reset --hard i
 git revert i
 
 4
-
+и тут напишу хрень
 
 
 
