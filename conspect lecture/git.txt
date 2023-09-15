@@ -2,6 +2,7 @@
 1
 git init
 git status
+какой то мусор
 
 2
 git commit - m 'commentary'
@@ -11,10 +12,6 @@ git reset --hard i
 git revert i
 
 4
-git checkout -b name_branch
-git branch -m old new
-git checkout name_branch
-git branch -d name
 
 
 
